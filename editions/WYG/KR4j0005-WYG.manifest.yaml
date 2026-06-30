@@ -1,0 +1,46 @@
+canonical_identifier: bkk:krp/KR4j0005/WYG/v1
+canonical_location: https://kanripo.org/bkk/KR4j0005/WYG/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 東坡詞
+  date: '2015-08-25 00:46:58.269899'
+  source:
+    repository: kanripo
+    path: KR4j0005
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR4j0005_000-WYG.yaml, hash: 'sha256:933473639124b74a33018ccc48b06e65f2e74b3c688b03fa946f6b8238e63ef6'}
+  - {seq: 1, filename: KR4j0005_001-WYG.yaml, hash: 'sha256:14cc8737f2bfaf3e3e8786d270adfad41a5cc5299efbedacb420e829a3051237'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR4j0005_000-WYG.markers.yaml, hash: 'sha256:b57910cca4b95e4f4439ccbfbcbc3575fbbb21a6f5979f74406078737c2947f9'}
+  - {seq: 1, role: markers, filename: assets/KR4j0005_001-WYG.markers.yaml, hash: 'sha256:601acf80b8f53a7feda15d7374769893c4a6585a0a0996f3460a650febcc9445'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR4j0005_WYG_000-1a
+    span:
+    - body
+    - 0
+    - 476
+  label: 提要
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR4j0005_WYG_001-1a
+    span:
+    - body
+    - 0
+    - 23964
+  label: 東坡詞
+  type: section
+  level: 1
+hash: sha256:65195cf846f3b794ca37d9865d6ca3b479dd381d437ba20886efb758c232d938
