@@ -20,8 +20,8 @@ assets:
   - {seq: 0, filename: KR4j0005_000-WYG.yaml, hash: 'sha256:933473639124b74a33018ccc48b06e65f2e74b3c688b03fa946f6b8238e63ef6'}
   - {seq: 1, filename: KR4j0005_001-WYG.yaml, hash: 'sha256:14cc8737f2bfaf3e3e8786d270adfad41a5cc5299efbedacb420e829a3051237'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR4j0005_000-WYG.markers.yaml, hash: 'sha256:b57910cca4b95e4f4439ccbfbcbc3575fbbb21a6f5979f74406078737c2947f9'}
-  - {seq: 1, role: markers, filename: assets/KR4j0005_001-WYG.markers.yaml, hash: 'sha256:601acf80b8f53a7feda15d7374769893c4a6585a0a0996f3460a650febcc9445'}
+  - {seq: 0, role: markers, filename: assets/KR4j0005_000-WYG.markers.yaml, hash: 'sha256:ad954f25f040194edfa3284b777d1e18f0c073869c6a7fed25c4859cba03f601'}
+  - {seq: 1, role: markers, filename: assets/KR4j0005_001-WYG.markers.yaml, hash: 'sha256:49aa2b8b5eab254a1893a148ab5050061a78d0c3821b9728a51e3b336f4fca98'}
 table_of_contents:
 - ref:
     seq: 0
@@ -43,4 +43,4 @@ table_of_contents:
   label: 東坡詞
   type: section
   level: 1
-hash: sha256:65195cf846f3b794ca37d9865d6ca3b479dd381d437ba20886efb758c232d938
+hash: sha256:430a1c4de759caaa7e838283e74952a738642ed87359005d782d11380d37c761
